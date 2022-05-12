@@ -1,24 +1,42 @@
-# lojinha-filmes
+# Desafio Junior front-end DOT
 
-## Project setup
-```
-npm install
-```
+Implementar uma lojinha de filmes com funcionalidade básica
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Requisitos para Dev Júnior:
+Implementar o layout da página inicial da loja
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Stack utilizada
+
+Front-end: VueJs, TailwindCSS
+
+
+
+## Rodando localmente
+
+Clone o projeto
+
+  git clone https://link-para-o-projeto
+
+
+Instale as dependências
+
+  npm install
+
+
+Inicie o servidor
+
+  npm run serve
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/isabellacarollina/lojinha-filmes/blob/main/telas/tela1.jpeg)
+
+![App Screenshot](https://github.com/isabellacarollina/lojinha-filmes/blob/main/telas/tela2.jpeg)
+
+![App Screenshot](https://github.com/isabellacarollina/lojinha-filmes/blob/main/telas/tela3.jpeg)
